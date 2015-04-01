@@ -4,4 +4,4 @@ install:
 script:
   - true
 after_script:
-  - echo $(ls/shippable)
+  - echo $(ls shippable)
