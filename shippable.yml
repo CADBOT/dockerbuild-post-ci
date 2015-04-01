@@ -4,4 +4,4 @@ install:
 script:
   - true
 after_script:
-  - echo $(pwd)
+  - echo $(ls)
